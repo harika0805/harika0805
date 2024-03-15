@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm MANI</h1>
+<h1 align="center">Hi 👋, I'm HARIKA</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mani1028&label=Profile%20views&color=0e75b6&style=flat" alt="mani1028" /> </p>
@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **wed development**
 
-- 📫 How to reach me **chelamalla.manikanta28@gmail.com**
+- 📫 How to reach me **thallapallyharika0@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
